@@ -1,0 +1,16 @@
+{
+  "name": "scrabble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "anagram_solver.js",
+  "scripts": {
+    "start": "nodemon anagram_solver.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "nodemon": "^2.0.7"
+  }
+}
